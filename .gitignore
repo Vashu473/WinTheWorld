@@ -1,0 +1,51 @@
+# This .gitignore file is for Unity projects
+
+# Ignore hidden files and directories
+.*
+!.gitignore
+
+# Ignore auto-generated files
+[Oo]bj/
+[Bb]in/
+[Ll]ibrary/
+Temp/
+[Aa]ssets/AssetStoreTools*
+
+# Ignore Unity auto-generated files
+sysinfo.txt
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.sln*
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.vscode/
+
+# Ignore build results
+Build/
+Builds/
+build/
+builds/
+
+# Ignore logs and crash reports
+*.log
+*.stacktrace
+
+# Ignore memory captures
+MemoryCaptures/
+
+# Ignore script debugging information
+*.mdb
+*.pdb
+
+# Ignore crash reports
+CrashReports/
+
+# Ignore Unity generated meta files
+*.
